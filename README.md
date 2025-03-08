@@ -1,4 +1,4 @@
-# Buffer Overflow Sync Breeze 10.0.28
+# Buffer Overflow Sync Breeze 10.0.28 - Didactic
 
 **Sync Breeze 10.0.28**
 http://www.syncbreeze.com/setups/syncbreezeent_setup_v10.0.28.exe
