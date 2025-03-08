@@ -1,7 +1,7 @@
 # Buffer Overflow Sync Breeze 10.0.28 - Didactic
 
 **Sync Breeze 10.0.28**
-- http://www.syncbreeze.com/setups/syncbreezeent_setup_v10.0.28.exe
+- https://www.exploit-db.com/apps/959f770895133edc4cf65a4a02d12da8-syncbreezeent_setup_v10.0.28.exe
 
 **Subir servidor na máquina do atacante**
 - ```python3 -m http.server (port)```
